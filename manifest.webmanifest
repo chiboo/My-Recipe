@@ -1,1 +1,27 @@
-{"name":"My Recipe - 自分のレシピ帳","short_name":"My Recipe","start_url":"./","scope":"./","display":"standalone","background_color":"#fff9f3","theme_color":"#fff9f3","icons":[{"src":"./apple-touch-icon.png","sizes":"180x180","type":"image/png"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png"}]}
+
+{
+  "id": "/MyRecipe/",
+  "name": "My Recipe | 自分のレシピ帳",
+  "short_name": "My Recipe",
+  "description": "自分だけのレシピを保存・管理できるアプリ",
+  "lang": "ja",
+  "start_url": "/MyRecipe/",
+  "scope": "/MyRecipe/",
+  "display": "standalone",
+  "background_color": "#17191f",
+  "theme_color": "#17191f",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
